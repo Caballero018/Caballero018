@@ -9,13 +9,13 @@
   <p align="justify">
     I love to learn. There are countless ways to solve a problem, through the various programming languages, I am passionate about looking for these different methods to be able to apply them.
    </p>
-  <p>
+  <p align="justify">
 I am persistent in what I do, I am not good at giving up, I like to work in a team and achieve my goals. I really want to carry out my degree, I really want to apply the knowledge learned and learn new technologies.
   </p>
 
 ---
 
-## Skills
+## Skills <img src="./images/skills.gift" width="20px"/>
 
 <div align="center">
 
