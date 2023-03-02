@@ -2,7 +2,7 @@
 
 <h2 align="center"> Recently graduated student in software development at Holberton School</h2>
 
-## About me
+## About 
 
 <div>
   <img align="right"  width="50%" src="./images/laptops.png"/>
@@ -23,7 +23,7 @@ I am persistent in what I do, I am not good at giving up, I like to work in a te
 
 </div>
 
-## How to contact me?
+## How to contact me? <img src="./images/contact.gif" width="25px"/>
 
 <a href="https://github.com/Caballero018"><img width="40px" src="./images/github.png"/></a> <a href="https://www.linkedin.com/in/alejandro-caballero-granado/"><img width="40px" src="./images/linkdin.png"/></a>
 
