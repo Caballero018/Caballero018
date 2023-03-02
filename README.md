@@ -17,8 +17,11 @@ I am persistent in what I do, I am not good at giving up, I like to work in a te
 
 ## Skills
 
+<div align="center">
+
 <img  width="50px" src="./images/python.png"/> <img  width="50px" src="./images/c.png"/> <img   width="50px" src="./images/php.png"/> <img   width="50px" src="./images/sql.png"/> <img   width="50px" src="./images/bash.png"/> <img   width="50px" src="./images/javascript.png"/> <img   width="50px" src="./images/html5.png"/> <img   width="50px" src="./images/css.png"/>
 
+</div>
 
 </div>
 
