@@ -12,6 +12,14 @@
   <h3>
 I am persistent in what I do, I am not good at giving up, I like to work in a team and achieve my goals. I really want to carry out my degree, I really want to apply the knowledge learned and learn new technologies.
   </h3>
+
+---
+
+## Skills
+
+<img align="right" width="32px" src="./images/python.png"/><img align="right" width="32px" src="./images/c.png"/><img align="right" width="32px" src="./images/php.png"/><img align="right" width="32px" src="./images/sql.png"/><img align="right" width="32px" src="./images/bash.png"/><img align="right" width="32px" src="./images/javascript.png"/><img align="right" width="32px" src="./images/html5.png"/><img align="right" width="32px" src="./images/css.png"/>
+
+
 </div>
 
 
