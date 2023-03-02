@@ -5,7 +5,7 @@
 ## About me
 
 <div>
-  <img align="right" width="50%" src="./images/laptops.png"/>
+  <img align="right"  width="50%" src="./images/laptops.png"/>
   <h3 align="justify">
     I love to learn. There are countless ways to solve a problem, through the various programming languages, I am passionate about looking for these different methods to be able to apply them.
    </h3>
@@ -17,7 +17,7 @@ I am persistent in what I do, I am not good at giving up, I like to work in a te
 
 ## Skills
 
-<img align="right" width="32px" src="./images/python.png"/><img align="right" width="32px" src="./images/c.png"/><img align="right" width="32px" src="./images/php.png"/><img align="right" width="32px" src="./images/sql.png"/><img align="right" width="32px" src="./images/bash.png"/><img align="right" width="32px" src="./images/javascript.png"/><img align="right" width="32px" src="./images/html5.png"/><img align="right" width="32px" src="./images/css.png"/>
+<img  width="32px" src="./images/python.png"/><img  width="32px" src="./images/c.png"/><img   width="32px" src="./images/php.png"/><img   width="32px" src="./images/sql.png"/><img   width="32px" src="./images/bash.png"/><img   width="32px" src="./images/javascript.png"/><img   width="32px" src="./images/html5.png"/><img   width="32px" src="./images/css.png"/>
 
 
 </div>
