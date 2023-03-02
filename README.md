@@ -2,7 +2,7 @@
 
 <h2 align="center"> Recently graduated student in software development at Holberton School</h2>
 
-## About 
+## About me <img src="./images/about.gif" width="25px"/>
 
 <div>
   <img align="right"  width="50%" src="./images/laptops.png"/>
