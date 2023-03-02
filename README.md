@@ -17,7 +17,7 @@ I am persistent in what I do, I am not good at giving up, I like to work in a te
 
 ## Skills
 
-<img  width="40px" src="./images/python.png"/><img  width="40px" src="./images/c.png"/><img   width="40px" src="./images/php.png"/><img   width="40px" src="./images/sql.png"/><img   width="40px" src="./images/bash.png"/><img   width="40px" src="./images/javascript.png"/><img   width="40px" src="./images/html5.png"/><img   width="40px" src="./images/css.png"/>
+<img  width="60px" src="./images/python.png"/><img  width="60px" src="./images/c.png"/><img   width="60px" src="./images/php.png"/><img   width="60px" src="./images/sql.png"/><img   width="60px" src="./images/bash.png"/><img   width="60px" src="./images/javascript.png"/><img   width="60px" src="./images/html5.png"/><img   width="60px" src="./images/css.png"/>
 
 
 </div>
