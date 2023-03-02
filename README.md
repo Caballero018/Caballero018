@@ -19,9 +19,13 @@ I am persistent in what I do, I am not good at giving up, I like to work in a te
 
 <div align="center">
 
-<img  width="50px" src="./images/python.png"/> <img  width="50px" src="./images/c.png"/> <img   width="50px" src="./images/php.png"/> <img   width="50px" src="./images/sql.png"/> <img   width="50px" src="./images/bash.png"/> <img   width="50px" src="./images/javascript.png"/> <img   width="50px" src="./images/html5.png"/> <img   width="50px" src="./images/css.png"/>
+<img  width="40px" src="./images/python.png"/> <img  width="40px" src="./images/c.png"/> <img   width="40px" src="./images/php.png"/> <img   width="40px" src="./images/sql.png"/> <img   width="40px" src="./images/bash.png"/> <img   width="40px" src="./images/javascript.png"/> <img   width="40px" src="./images/html5.png"/> <img   width="40px" src="./images/css.png"/>
 
 </div>
+
+## How to contact me?
+
+<a><img width="40px" src="./images/github.png"/></a> <a><img width="40px" src="./images/linkdin.png"/></a>
 
 </div>
 
