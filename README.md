@@ -25,7 +25,7 @@ I am persistent in what I do, I am not good at giving up, I like to work in a te
 
 ## How to contact me?
 
-<a><img width="40px" src="./images/github.png"/></a> <a><img width="40px" src="./images/linkdin.png"/></a>
+<a href="https://github.com/Caballero018"><img width="40px" src="./images/github.png"/></a> <a href="https://www.linkedin.com/in/alejandro-caballero-granado/"><img width="40px" src="./images/linkdin.png"/></a>
 
 </div>
 
