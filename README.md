@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, my name is Alejandro Caballero<img src="./images/hello.gif" width="45px"/></h1>
+<h1 align="center"> Hello, my name is Alejandro Caballero <img src="./images/hello.gif" width="45px"/></h1>
 
 <h2 align="center"> Recently graduated student in software development at Holberton School</h2>
 
