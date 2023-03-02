@@ -15,7 +15,7 @@ I am persistent in what I do, I am not good at giving up, I like to work in a te
 
 ---
 
-## Skills <img src="./images/skills.gif" width="20px"/>
+## Skills <img src="./images/skills.gif" width="25px"/>
 
 <div align="center">
 
