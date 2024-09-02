@@ -1,27 +1,56 @@
-<h1 align="center"> Hello, my name is Alejandro Caballero <img src="./images/hello.gif" width="45px"/></h1>
-
-<h2 align="center"> Recently graduated student in software development at Holberton School</h2>
-
-## About me <img src="./images/aboutme.gif" width="50px"/>
-
+<h1> Hello, I'm Alejandro Caballero </h1>
 <div>
-  <img align="right"  width="50%" src="./images/laptops.png"/>
   <p align="justify">
-    I love to learn. There are countless ways to solve a problem, through the various programming languages, I am passionate about looking for these different methods to be able to apply them.
+   Junior Backend Developer with experience in Python, Django, and Flask. Specialized in query optimization, migrations, and REST API development. Proficient in web scraping with Selenium and Scrapy, focused on creating scalable and secure solutions. Also knowledgeable in migration, backup and restoration, logical replication, and server performance tuning in PostgreSQL (version 15.5).
    </p>
-  <p align="justify">
-I am persistent in what I do, I am not good at giving up, I like to work in a team and achieve my goals. I really want to carry out my degree, I really want to apply the knowledge learned and learn new technologies.
-  </p>
 
 ---
 
-## Skills <img src="./images/skills.gif" width="25px"/>
+## Skills
 
-<div align="center">
+* Python (1 year)
+  * Django
+  * Flask
+  * Selenium
+  * Scrapy
+  * Sqlalchemy
+* JavaScript
+* PostgreSQL (1 year)
+* Bash (1 year)
+* AWS (6 months)
+* MySQL
+* MongoDB
+* C
 
-<img  width="40px" src="./images/python.png"/> <img  width="40px" src="./images/c.png"/> <img   width="40px" src="./images/php.png"/> <img   width="40px" src="./images/sql.png"/> <img   width="40px" src="./images/bash.png"/> <img   width="40px" src="./images/javascript.png"/> <img   width="40px" src="./images/html5.png"/> <img   width="40px" src="./images/css.png"/>
+## Experience
 
-</div>
+* TUL
+
+  **Location:** Medellín  
+  **Duration:** Sep 2023 - Sep 2024
+  
+  **Roles:**
+  
+  ### Tech Intern Data  
+  **Responsibilities:**
+  - Administration of the Airbyte tool
+  - Handling of Snowflake
+  - Developing automations in Python
+  
+  ### DBA  
+  **Responsibilities:**
+  - Support and administration of databases
+  - Tuning (query optimization and index creation)
+  - Database migrations - Backup and Restore
+  - Logical replication
+  - Developing automations in Python
+  
+  **Achievements:**
+  - Query optimization
+  - Migrated 60% of RDS instances to a single tenant
+  - Created an automation process that generates a data dictionary with metadata of all company databases. This process provides a quick view of all databases, including table objects, their columns, and data types. Developed in Python, using SQLAlchemy for data storage, and employed the company's automation tool for data extraction, facilitating connection to all databases within the respective RDS.
+  - Developed an automation process that synchronizes an Argos CD (Redash grants) job for a specific microservice across multiple clusters to update database data, including new table inserts or structural changes. This was developed in Python.
+
 
 ## How to contact me? <img src="./images/contact.gif" width="25px"/>
 
